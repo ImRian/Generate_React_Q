@@ -1,0 +1,11 @@
+/* src-styles/RoutineManager.css */
+
+/* 루틴 추가 버튼 스타일 */
+.routine-add-form button {
+  background-color: #5E0EDD; /* 테마 색상 적용 */
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
